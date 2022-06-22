@@ -21,9 +21,8 @@
     <!--4-->
     <!--5-->
     <!--master test-->
-    <select id="getTag">
-
-    </select>
+    <!--<select id="getTag">-->
+    <!--</select>-->
 
 
 </mapper>
